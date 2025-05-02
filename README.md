@@ -4,9 +4,8 @@
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eythornascimento/)
 
 <div style="display: inline_block"><br>
- <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=shades-of-purple&show_icons=true">
- <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eythordonascimento&layout=compact&theme=shades-of-purple">
- <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eythordonascimento&theme=shades-of-purple">
+ <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=midnight-purple&show_icons=true">
+ <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eythordonascimento&theme=midnight-purple">
 </div><br/>
 
 
