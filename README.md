@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Eythor do Nascimento 👋
 
+🧑‍💻 Sobre mim
+Sou um entusiasta da tecnologia apaixonado por desenvolvimento web, mobile e backend. Atualmente, estou estudando diversas tecnologias para me tornar um desenvolvedor completo e conquistar meu espaço na área de tecnologia. Meu objetivo é entrar no mercado e contribuir com projetos inovadores! 
+
 
  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=midnight-purple&show_icons=true">
  <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eythordonascimento&theme=midnight-purple">
