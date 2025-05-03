@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eythor do Nascimento 👋
 
 🧑‍💻 Sobre mim <br/>
-Sou Eythor do Nascimento, desenvolvedor apaixonado por tecnologia e inovação. Estudo tanto frontend quanto backend, explorando tecnologias como React, Node.js, Express, MySQL e MongoDB para construir aplicações completas e eficientes. Meu objetivo é entrar no mercado de tecnologia, aprimorar minhas habilidades e contribuir com projetos impactantes. Programação para mim não é apenas código—é criatividade, solução de problemas e transformação de ideias em realidade. 
+Sou Eythor do Nascimento, estudante e desenvolvedor apaixonado por tecnologia e inovação. Exploro frontend e backend com React, Node.js, Express, MySQL e MongoDB, buscando criar soluções criativas e eficientes. 
 
 
  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=midnight-purple&show_icons=true">
