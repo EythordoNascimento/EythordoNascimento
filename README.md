@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Eythor do Nascimento 👋
 
-🧑‍💻 Sobre mim <br/>
+🧑‍💻 Sobre mim <br/><br/>
 Sou Eythor do Nascimento, estudante e desenvolvedor apaixonado por tecnologia e inovação. Exploro frontend e backend com React, Node.js, Express, MySQL e MongoDB, buscando criar soluções criativas e eficientes. 
 
 
