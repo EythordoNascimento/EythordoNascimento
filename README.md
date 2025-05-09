@@ -11,16 +11,18 @@ Sou Eythor do Nascimento, estudante e desenvolvedor apaixonado por tecnologia e 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eythordonascimento&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF)
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>  
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge"/>
+  
 </div>
 
 
