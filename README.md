@@ -3,9 +3,6 @@
 🧑‍💻 **Sobre mim** <br/>  
 Sou Eythor do Nascimento, estudante e desenvolvedor apaixonado por tecnologia e inovação. Exploro frontend e backend com React, Node.js, Express, MySQL e MongoDB, buscando criar soluções criativas e eficientes.  
 
-📊 **Meu progresso no GitHub**  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=eythordonascimento&theme=midnight-purple)  
-
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=midnight-purple&show_icons=true">  
 
 ### Tecnologias que eu uso no meu dia  
@@ -27,8 +24,6 @@ Sou Eythor do Nascimento, estudante e desenvolvedor apaixonado por tecnologia e 
 </div>  
 
 📌 **Programando meu caminho para o futuro** 🚀  
-
-💡 **Um toque dinâmico!**  
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">  
 
 ## Contatos  
