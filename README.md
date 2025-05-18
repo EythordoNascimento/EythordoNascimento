@@ -24,6 +24,7 @@ Sou Eythor do Nascimento, estudante e desenvolvedor apaixonado por tecnologia e 
 </div>  
 
 📌 **Programando meu caminho para o futuro** 🚀  
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">  
 
 ## Contatos  
