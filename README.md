@@ -34,5 +34,11 @@ Sou Eythor do Nascimento Fernandes, estudante e desenvolvedor apaixonado por tec
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eythor_7/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eythornascimento/)  
 
+<div align="center">
+
+### 👁️ Visitantes
+
 ![Visitantes](https://profile-counter.glitch.me/eythordonascimento/count.svg)
+
+</div>
 
