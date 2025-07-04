@@ -62,7 +62,4 @@ Sou Eythor do Nascimento, estudante e desenvolvedor apaixonado por tecnologia e 
 
 <br/><br/>
 
-<img src="https://profile-counter.glitch.me/eythordonascimento/count.svg" alt="Visitantes" />
-<p><strong>👁️ Visitantes</strong></p>
 
-</div>
