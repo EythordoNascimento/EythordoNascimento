@@ -1,27 +1,16 @@
-<div align="center">
-
-# 👨🏻‍💻 Eythor do Nascimento
-
+# 👨🏻‍💻 Eythor do Nascimento  
 **`Desenvolvedor em Formação`**
 
-Me chamo Eythor do Nascimento Fernandes. Concluí o curso técnico em Desenvolvimento de Sistemas e atualmente estou cursando o nível superior em Análise e Desenvolvimento de Sistemas (ADS). Tenho experiência prática em frontend e backend com tecnologias como React, Node.js, Express, MySQL, MongoDB e Java.
-Estou construindo minha base técnica em projetos reais, buscando não apenas escrever código, mas entender como criar aplicações escaláveis, organizadas e com boa experiência de usuário. A cada desafio, evoluo na lógica, na arquitetura e nas boas práticas que transformam ideias em sistemas funcionais.
-Além disso, estou sempre revisando conceitos, testando novas ferramentas e estudando padrões modernos para manter meu conhecimento atualizado com o mercado. Aprendo com a prática, com os erros e com a troca constante com a comunidade.
+Sou formado no curso técnico em Desenvolvimento de Sistemas e atualmente curso o nível superior em Análise e Desenvolvimento de Sistemas (ADS). Tenho explorado tecnologias como React, Node.js, MySQL, MongoDB e Java, trabalhando em projetos que envolvem tanto o frontend quanto o backend.  
+Busco aprimorar minhas habilidades diariamente, combinando prática com aprendizado teórico para criar aplicações eficientes e bem estruturadas.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=midnight-purple&show_icons=true)
 
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=midnight-purple&show_icons=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
+---
 
 ### 🛠️ Tecnologias que eu uso no meu dia
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eythordonascimento&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF)
-
-### 🛠️ Tecnologias que eu uso no meu dia
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -36,26 +25,17 @@ Além disso, estou sempre revisando conceitos, testando novas ferramentas e estu
 <img align="left" alt="MVC" title="MVC Architecture" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
-<br/>
-<br/>
+<br/><br/>
 
-</div>
+---
 
-<br/>
-
-<div align="center">
-
-📌 **Programando meu caminho para o futuro** 🚀
+### 📌 Programando meu caminho para o futuro 🚀
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-</div>
+---
 
-<br/>
-
-<div align="center">
-
-## 📫 Contatos
+### 📫 Contatos
 
 <a href="mailto:nascimentoeythor@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -69,7 +49,3 @@ Além disso, estou sempre revisando conceitos, testando novas ferramentas e estu
 <a href="https://www.linkedin.com/in/eythornascimento/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<br/><br/>
-
-
