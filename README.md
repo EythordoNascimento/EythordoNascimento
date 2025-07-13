@@ -4,13 +4,27 @@
 Sou formado no curso técnico em Desenvolvimento de Sistemas e atualmente curso o nível superior em Análise e Desenvolvimento de Sistemas (ADS). Tenho explorado tecnologias como React, Node.js, MySQL, MongoDB e Java, trabalhando em projetos que envolvem tanto o frontend quanto o backend.  
 Busco aprimorar minhas habilidades diariamente, combinando prática com aprendizado teórico para criar aplicações eficientes e bem estruturadas.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=midnight-purple&show_icons=true)
+---
+
+### 🧮 Estatísticas do GitHub
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=eythordonascimento&show_icons=true&theme=midnight-purple" 
+    alt="GitHub Stats" 
+    width="48%" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eythordonascimento&layout=compact&theme=midnight-purple" 
+    alt="Top Languages" 
+    width="48%" 
+  />
+</div>
 
 ---
 
-### 🛠️ Tecnologias que eu uso no meu dia
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eythordonascimento&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF)
+### 🛠️ Tecnologias que uso
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -22,7 +36,6 @@ Busco aprimorar minhas habilidades diariamente, combinando prática com aprendiz
 <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="MVC" title="MVC Architecture" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 <br/><br/>
