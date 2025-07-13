@@ -1,9 +1,13 @@
 <div align="center">
 
-### 👋 Olá! Eu sou o Eythor do Nascimento
+# 👨🏻‍💻 Eythor do Nascimento
 
-🧑‍💻 **Sobre mim** <br/>
-Sou Eythor do Nascimento Fernandes, estudante e desenvolvedor apaixonado por tecnologia e inovação. Exploro frontend e backend com React, Node.js, Express, MySQL e MongoDB, buscando criar soluções criativas e eficientes.
+**`Desenvolvedor em Formação`**
+
+Me chamo Eythor do Nascimento Fernandes. Concluí o curso técnico em Desenvolvimento de Sistemas e atualmente estou cursando o nível superior em Análise e Desenvolvimento de Sistemas (ADS). Tenho experiência prática em frontend e backend com tecnologias como React, Node.js, Express, MySQL, MongoDB e Java.
+Estou construindo minha base técnica em projetos reais, buscando não apenas escrever código, mas entender como criar aplicações escaláveis, organizadas e com boa experiência de usuário. A cada desafio, evoluo na lógica, na arquitetura e nas boas práticas que transformam ideias em sistemas funcionais.
+Além disso, estou sempre revisando conceitos, testando novas ferramentas e estudando padrões modernos para manter meu conhecimento atualizado com o mercado. Aprendo com a prática, com os erros e com a troca constante com a comunidade.
+
 
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=midnight-purple&show_icons=true" />
 
@@ -17,17 +21,23 @@ Sou Eythor do Nascimento Fernandes, estudante e desenvolvedor apaixonado por tec
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eythordonascimento&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF)
 
-<img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge"/>
+### 🛠️ Tecnologias que eu uso no meu dia
+
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express.js" title="Express" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="MVC" title="MVC Architecture" width="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<br/>
+<br/>
 
 </div>
 
