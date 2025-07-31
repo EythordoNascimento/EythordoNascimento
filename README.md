@@ -1,18 +1,22 @@
 # 👨🏻‍💻 Eythor do Nascimento  
-**`Desenvolvedor em Formação`**
+**` Estudande Software Developer & Quality Assurance`**
 
-Sou formado no curso técnico em Desenvolvimento de Sistemas e atualmente curso o nível superior em Análise e Desenvolvimento de Sistemas (ADS). Tenho explorado tecnologias como React, Node.js, MySQL, MongoDB e Java, trabalhando em projetos que envolvem tanto o frontend quanto o backend.  
-Busco aprimorar minhas habilidades diariamente, combinando prática com aprendizado teórico para criar aplicações eficientes e bem estruturadas.
+Sou formado em Desenvolvimento de Sistemas e atualmente curso Análise e Desenvolvimento de Sistemas (ADS).  
+Tenho explorado tecnologias como **React**, **Node.js**, **MySQL**, **MongoDB** e **Java**, atuando em projetos tanto no front quanto no backend.  
+Ultimamente, venho me aprofundando em práticas de **Qualidade de Software (QA)**, aprendendo sobre metodologias **Ágeis** como **Scrum** e **Kanban**, além de ferramentas e técnicas essenciais como **CI/CD**, **BDD** e **Gherkin**.
+
+Busco aprimorar minhas habilidades diariamente, combinando prática com aprendizado teórico para construir aplicações eficientes, seguras e bem estruturadas.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=midnight-purple&show_icons=true)
 
 ---
 
-### 🛠️ Tecnologias que eu uso no meu dia
+### 🛠️ Tecnologias & Metodologias que eu uso
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eythordonascimento&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF)
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <!-- Techs -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -21,13 +25,18 @@ Busco aprimorar minhas habilidades diariamente, combinando prática com aprendiz
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <!-- QA + Agile -->
+  <img src="https://img.shields.io/badge/QA-Quality_Assurance-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrum-Agile-blueviolet?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kanban-Agile-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gherkin-BDD-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BDD-Behavior_Driven_Development-yellowgreen?style=for-the-badge" />
 </div>
-
-<br/><br/>
 
 ---
 
@@ -37,7 +46,7 @@ Busco aprimorar minhas habilidades diariamente, combinando prática com aprendiz
 
 ---
 
-### 📫 Contatos
+### 📫 Onde me encontrar
 
 <a href="mailto:nascimentoeythor@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
