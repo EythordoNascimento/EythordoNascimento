@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Eythor do Nascimento
+# 👨🏻‍💻 Eythor do Nascimento Fernandes
 
 **` Estudande Software Developer & Quality Assurance`**
 
