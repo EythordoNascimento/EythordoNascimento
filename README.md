@@ -1,5 +1,4 @@
-# 👨🏻‍💻 Eythor do Nascimento Fernandes
-
+# 👨🏻‍💻 Eythor do Nascimento 
 **` Estudande Software Developer & Quality Assurance`**
 
 Sou formado em Desenvolvimento de Sistemas e atualmente curso Análise e Desenvolvimento de Sistemas (ADS).
