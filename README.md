@@ -2,7 +2,7 @@
 **` Estudande Software Developer & Quality Assurance`**
 
 Sou formado em Desenvolvimento de Sistemas e atualmente curso Análise e Desenvolvimento de Sistemas (ADS)
-Tenho explorado tecnologias como **React**, **Node.js**, **MySQL**, **MongoDB** e **Java**, atuando em projetos tanto no front quanto no backend 
+Tenho explorado tecnologias como **React**, **Node.js**, **MySQL**, **MongoDB** e **Java**, atuando em projetos tanto no front quanto no backend .
 Nos últimos tempos, venho me aprofundando em práticas de Qualidade de Software (QA), aprendendo sobre metodologias Ágeis como Scrum e Kanban, além de ferramentas e técnicas essenciais como CI/CD, BDD e Gherkin. Também estou desenvolvendo testes automatizados com Selenium em Java, aplicando boas práticas como o padrão Page Object Model e integrando testes em pipelines de entrega contínua.
 
 
