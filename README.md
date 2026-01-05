@@ -11,10 +11,7 @@ Busco aprimorar minhas habilidades diariamente, combinando prática com aprendiz
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eythordonascimento&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eythordonascimento&layout=compact&theme=radical)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=eythordonascimento&theme=radical&margin-w=15&margin-h=15)
 ---
 
 ### 🛠️ Tecnologias & Metodologias que eu uso
