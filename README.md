@@ -10,8 +10,10 @@ Busco aprimorar minhas habilidades diariamente, combinando prática com aprendiz
 ---
 
 ### 📊 GitHub Stats
+![Commits](https://img.shields.io/badge/Commits-1200+-blue?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repositórios-30+-green?style=for-the-badge)
+![Contribuições](https://img.shields.io/badge/Contribuições-Diárias-orange?style=for-the-badge)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=eythordonascimento&theme=radical&margin-w=15&margin-h=15)
 ---
 
 ### 🛠️ Tecnologias & Metodologias que eu uso
