@@ -1,23 +1,25 @@
-# 👨🏻‍💻 Eythor do Nascimento 
-**` Estudande Software Developer & Quality Assurance`**
+# 👨🏻‍💻 Eythor do Nascimento
+**`Estudante Software Developer & Quality Assurance`**
 
-Sou formado em Desenvolvimento de Sistemas e atualmente curso Análise e Desenvolvimento de Sistemas (ADS)
-Tenho explorado tecnologias como **React**, **Node.js**, **MySQL**, **MongoDB** e **Java**, atuando em projetos tanto no front quanto no backend .
-Nos últimos tempos, venho me aprofundando em práticas de Qualidade de Software (QA), aprendendo sobre metodologias Ágeis como Scrum e Kanban, além de ferramentas e técnicas essenciais como CI/CD, BDD e Gherkin. Também estou desenvolvendo testes automatizados com Selenium em Java, aplicando boas práticas como o padrão Page Object Model e integrando testes em pipelines de entrega contínua.
+Sou formado em Desenvolvimento de Sistemas e atualmente curso Análise e Desenvolvimento de Sistemas (ADS).  
+Tenho explorado tecnologias como **React**, **Node.js**, **MySQL**, **MongoDB** e **Java**, atuando em projetos tanto no front quanto no backend.  
+Nos últimos tempos, venho me aprofundando em práticas de Qualidade de Software (QA), aprendendo sobre metodologias Ágeis como Scrum e Kanban, além de ferramentas e técnicas essenciais como CI/CD, BDD e Gherkin. Também estou desenvolvendo testes automatizados com Selenium em Java, aplicando boas práticas como o padrão Page Object Model e integrando testes em pipelines de entrega contínua.  
 
+Busco aprimorar minhas habilidades diariamente, combinando prática com aprendizado teórico para construir aplicações eficientes, seguras e bem estruturadas.  
 
-Busco aprimorar minhas habilidades diariamente, combinando prática com aprendizado teórico para construir aplicações eficientes, seguras e bem estruturadas.
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eythordonascimento&theme=midnight-purple&show_icons=true)
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eythordonascimento&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eythordonascimento&layout=compact&theme=radical)
 
 ---
 
 ### 🛠️ Tecnologias & Metodologias que eu uso
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eythordonascimento&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF)
-
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <!-- Techs -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,7 +32,6 @@ Busco aprimorar minhas habilidades diariamente, combinando prática com aprendiz
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge" />
-  <!-- QA + Agile -->
   <img src="https://img.shields.io/badge/QA-Quality_Assurance-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scrum-Agile-blueviolet?style=for-the-badge&logo=scrumalliance&logoColor=white" />
   <img src="https://img.shields.io/badge/Kanban-Agile-teal?style=for-the-badge" />
