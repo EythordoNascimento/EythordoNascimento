@@ -1,13 +1,11 @@
 # 👨🏻‍💻 Eythor do Nascimento
-**`Estudante Software Developer & Quality Assurance`**
+**`Estudante Software Developer`**
 
-Sou formado em Desenvolvimento de Sistemas e atualmente curso Análise e Desenvolvimento de Sistemas (ADS)
-Tenho explorado tecnologias como **React**, **Node.js**, **MySQL**, **MongoDB** e **Java**, atuando em projetos tanto no front quanto no backend
+Sou formado em Desenvolvimento de Sistemas (nível técnico) e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no nível superior.
+Tenho conhecimento em linguagens de programação e frameworks modernos, atuando em projetos que envolvem tanto o desenvolvimento frontend quanto o backend.
+Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizado teórico para construir aplicações eficientes, seguras e bem estruturadas.
+Como disse Cristiano Ronaldo: “O talento não é suficiente. É preciso trabalhar duro e se preparar todos os dias para ser o melhor.” Essa mentalidade guia minha evolução como desenvolvedor.
 
-
-Nos últimos tempos, venho me aprofundando em práticas de Qualidade de Software (QA), aprendendo sobre metodologias Ágeis como Scrum e Kanban, além de ferramentas e técnicas essenciais como CI/CD, BDD e Gherkin. Também estou desenvolvendo testes automatizados com Selenium em Java, aplicando boas práticas como o padrão Page Object Model e integrando testes em pipelines de entrega contínua.  
-
-Busco aprimorar minhas habilidades diariamente, combinando prática com aprendizado teórico para construir aplicações eficientes, seguras e bem estruturadas.
 
 ---
 
