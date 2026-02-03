@@ -9,10 +9,14 @@ Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizad
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+## 🚀 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EythordoNascimento&show_icons=true&theme=radical)
 
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=EythordoNascimento&theme=radical)
+
+## 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EythordoNascimento&layout=compact&theme=radical)
 
 ---
 
