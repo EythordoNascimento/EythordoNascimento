@@ -8,17 +8,13 @@ Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizad
 
 
 ---
+# 🚀 Minhas Estatísticas
 
-## 🚀 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EythordoNascimento&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=EythordoNascimento&theme=radical)
-
-## 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EythordoNascimento&layout=compact&theme=radical)
-
----
+![Commits](https://img.shields.io/badge/💻_Commits-1200+-blueviolet?style=for-the-badge)
+![Repos](https://img.shields.io/badge/📂_Repositórios-30+-success?style=for-the-badge)
+![Contribuições](https://img.shields.io/badge/🔥_Contribuições-Diárias-orange?style=for-the-badge)
+![Followers](https://img.shields.io/badge/👥_Seguidores-150+-informational?style=for-the-badge)
+![Stars](https://img.shields.io/badge/⭐_Stars-500+-yellow?style=for-the-badge)
 
 ### 🛠️ Tecnologias & Metodologias que eu uso
 
