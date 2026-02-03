@@ -13,7 +13,6 @@ Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizad
 ![Commits](https://img.shields.io/badge/💻_Commits-1200+-blueviolet?style=for-the-badge)
 ![Repos](https://img.shields.io/badge/📂_Repositórios-30+-success?style=for-the-badge)
 ![Contribuições](https://img.shields.io/badge/🔥_Contribuições-Diárias-orange?style=for-the-badge)
-![Followers](https://img.shields.io/badge/👥_Seguidores-150+-informational?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/⭐_Stars-500+-yellow?style=for-the-badge)
 
 ### 🛠️ Tecnologias & Metodologias que eu uso
@@ -45,7 +44,7 @@ Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizad
 
 ### 📌 Programando meu caminho para o futuro 🚀
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg0cXByc3l3OHl4cWo1enRkeGdta28yOHNjdzEzNWVja292YnZmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width="300" />
 
 ---
 
