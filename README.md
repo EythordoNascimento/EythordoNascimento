@@ -10,9 +10,9 @@ Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizad
 ---
 
 ### 📊 GitHub Stats
-![Commits](https://img.shields.io/badge/Commits-1200+-blue?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Repositórios-30+-green?style=for-the-badge)
-![Contribuições](https://img.shields.io/badge/Contribuições-Diárias-orange?style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+
 
 ---
 
