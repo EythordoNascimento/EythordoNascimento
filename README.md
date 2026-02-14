@@ -1,19 +1,20 @@
 # 👨🏻‍💻 Eythor do Nascimento
-**`Estudante Software Developer`**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8A2BE2&center=true&vCenter=true&width=500&lines=Estudante+Software+Developer;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
 
-Sou formado em Desenvolvimento de Sistemas (nível técnico) e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no nível superior.
-Tenho conhecimento em linguagens de programação e frameworks modernos, atuando em projetos que envolvem tanto o desenvolvimento frontend quanto o backend.
-Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizado teórico para construir aplicações eficientes, seguras e bem estruturadas.
-
-
+Sou formado em Desenvolvimento de Sistemas (nível técnico) e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no nível superior.  
+Tenho conhecimento em linguagens de programação e frameworks modernos, atuando em projetos que envolvem tanto o desenvolvimento frontend quanto o backend.  
+Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizado teórico para construir aplicações eficientes, seguras e bem estruturadas.  
 
 ---
+
 # 🚀 Minhas Estatísticas
 
-![Commits](https://img.shields.io/badge/💻_Commits-1200+-blueviolet?style=for-the-badge)
-![Repos](https://img.shields.io/badge/📂_Repositórios-30+-success?style=for-the-badge)
-![Contribuições](https://img.shields.io/badge/🔥_Contribuições-Diárias-orange?style=for-the-badge)
-![Stars](https://img.shields.io/badge/⭐_Stars-500+-yellow?style=for-the-badge)
+![Commits](https://img.shields.io/badge/💻_Commits-1200+-blueviolet?style=for-the-badge)  
+![Repos](https://img.shields.io/badge/📂_Repositórios-30+-success?style=for-the-badge)  
+![Contribuições](https://img.shields.io/badge/🔥_Contribuições-Diárias-orange?style=for-the-badge)  
+![Stars](https://img.shields.io/badge/⭐_Stars-500+-yellow?style=for-the-badge)  
+
+---
 
 ### 🛠️ Tecnologias & Metodologias que eu uso
 
@@ -23,7 +24,7 @@ Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizad
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
