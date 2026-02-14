@@ -1,3 +1,5 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Hello%20World,%20I'M%20Eythor&fontSize=30&fontColor=ffffff&animation=twinkling" />
 # 👨🏻‍💻 Eythor do Nascimento
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8A2BE2&center=true&vCenter=true&width=500&lines=Estudante+Software+Developer;Hello+World+I'M+Eythor)](https://git.io/typing-svg)
 
@@ -63,3 +65,5 @@ Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizad
 <a href="https://www.linkedin.com/in/eythornascimento/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
+
