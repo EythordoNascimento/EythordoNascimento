@@ -1,7 +1,5 @@
-<!-- Banner Roxo -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=100&section=header&text=Hello%20World,%20eu%20sou%20Eythor&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
-
-# 👨🏻‍💻 Estudante Software Developer
+# 👨🏻‍💻 Eythor do Nascimento
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8A2BE2&center=true&vCenter=true&width=500&lines=Estudante+Software+Developer;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
 
 Sou formado em Desenvolvimento de Sistemas (nível técnico) e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no nível superior.  
 Tenho conhecimento em linguagens de programação e frameworks modernos, atuando em projetos que envolvem tanto o desenvolvimento frontend quanto o backend.  
@@ -9,35 +7,59 @@ Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizad
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+# 🚀 Minhas Estatísticas
+
+![Commits](https://img.shields.io/badge/💻_Commits-1200+-blueviolet?style=for-the-badge)  
+![Repos](https://img.shields.io/badge/📂_Repositórios-30+-success?style=for-the-badge)  
+![Contribuições](https://img.shields.io/badge/🔥_Contribuições-Diárias-orange?style=for-the-badge)  
+![Stars](https://img.shields.io/badge/⭐_Stars-500+-yellow?style=for-the-badge)  
 
 ---
 
-## 🔧 Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
+### 🛠️ Tecnologias & Metodologias que eu uso
+
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QA-Quality_Assurance-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrum-Agile-blueviolet?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kanban-Agile-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gherkin-BDD-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BDD-Behavior_Driven_Development-yellowgreen?style=for-the-badge" />
+</div>
 
 ---
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eythornascimento/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:nascimentoeythor@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=5581996171798)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/eythor_7/)
+### 📌 Programando meu caminho para o futuro 🚀
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg0cXByc3l3OHl4cWo1enRkeGdta28yOHNjdzEzNWVja292YnZmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width="300" />
 
 ---
 
-## 🏆 GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=radical)
+### 📫 Onde me encontrar
+
+<a href="mailto:nascimentoeythor@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=5581996171798">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://instagram.com/eythor_7/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/eythornascimento/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
