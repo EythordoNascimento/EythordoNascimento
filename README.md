@@ -1,6 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Hello%20World,%20I'M%20Eythor&fontSize=30&fontColor=ffffff&animation=twinkling" />
-# 👨🏻‍💻 Eythor do Nascimento
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Hello%20World,%20I'M%20Eythor&fontSize=30&fontColor=ffffff&animation=twinkling" /> <br>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8A2BE2&center=true&vCenter=true&width=500&lines=Estudante+Software+Developer;Hello+World+I'M+Eythor)](https://git.io/typing-svg)
 
 Sou formado em Desenvolvimento de Sistemas (nível técnico) e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no nível superior.  
