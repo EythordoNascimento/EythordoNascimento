@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8A2BE2&center=true&vCenter=true&width=500&lines=Estudante+Software+Developer;Hello+World+I'M+Eythor)](https://git.io/typing-svg)
 
-Sou formado em Desenvolvimento de Sistemas (nível técnico) e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no nível superior.  
+Sou formado em Desenvolvimento de Sistemas (nível técnico) e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no nível superior
 Tenho conhecimento em linguagens de programação e frameworks modernos, atuando em projetos que envolvem tanto o desenvolvimento frontend quanto o backend.  
 Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizado teórico para construir aplicações eficientes, seguras e bem estruturadas.  
 
