@@ -6,7 +6,7 @@
 
 Sou formado em Desenvolvimento de Sistemas (nível técnico) e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no nível superior.
 Tenho conhecimento em linguagens de programação e frameworks modernos, atuando em projetos que envolvem tanto o desenvolvimento frontend quanto o backend
-Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizado teórico para construir aplicações eficientes, seguras e bem estruturadas
+Busco diariamente aprimorar minhas habilidades, combinando prática e aprendizado teórico para construir aplicações eficientes, seguras e bem estruturadas.
 
 ---
 
